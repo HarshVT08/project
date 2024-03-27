@@ -1,3 +1,3 @@
 # project
 This is my first repository
-Author- Harshvardha Tiwarijj
+Author- Harshvardha Tiwari
